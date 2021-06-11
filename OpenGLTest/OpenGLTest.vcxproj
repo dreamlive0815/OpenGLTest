@@ -22,6 +22,10 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="src\glad.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\learnopengl\shader_s.h" />
+    <ClInclude Include="include\MyFileSystem.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{3F6BBED2-91E9-4D90-B2DA-59B210E57371}</ProjectGuid>
